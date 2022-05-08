@@ -2,17 +2,16 @@
 
 body {
     background-color: #D5E1EF;
+    font-family: 'Outfit', sans-serif;
 }
 
 h1 {
-    font-family: 'Outfit', sans-serif;
     font-weight: 700;
     font-size: 24px;
     color: hsl(218, 44%, 22%);
 }
 
 p {
-    font-family: 'Outfit', sans-serif;
     font-weight: 400;
     font-size: 18px;
     color: hsl(210, 8%, 60%);
